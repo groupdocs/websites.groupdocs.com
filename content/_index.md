@@ -1,10 +1,9 @@
 ---
-title: About groupdocs.com - Websites - aspose.com
+title:  - Websites - groupdocs.com
 description: 
 keywords: 
 draft: false
 weight: 1
-aliases: [/groupdocs/com/]
 ---
 
 {{< PageLayout/wrapper >}}
