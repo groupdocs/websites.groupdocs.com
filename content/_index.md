@@ -1,5 +1,5 @@
 ---
-title:  - Websites - groupdocs.com
+title:  Websites - groupdocs.com
 description: 
 keywords: 
 draft: false
